@@ -5,6 +5,7 @@ Welcome to my GitHub space! Here's where the code magic happens! ✨
 ## 🚀 About Me
 
 I'm Bhuwan Khatri, a passionate coder and explorer based in Sydney. I breathe 💻 code and dream in algorithms. Outside the terminal, I love  playing cricket and code a lot.
+Coding is fun.
 
 ## 🌟 Projects
 
